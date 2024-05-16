@@ -1,0 +1,12 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\bin\Debug\net8.0\EdgeCut.Core.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\bin\Debug\net8.0\EdgeCut.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\bin\Debug\net8.0\EdgeCut.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\refint\EdgeCut.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\ref\EdgeCut.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Core\obj\Debug\net8.0\EdgeCut.Core.csproj.AssemblyReference.cache

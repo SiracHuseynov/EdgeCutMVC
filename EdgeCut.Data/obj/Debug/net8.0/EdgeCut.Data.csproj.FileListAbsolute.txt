@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\bin\Debug\net8.0\EdgeCut.Data.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\bin\Debug\net8.0\EdgeCut.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\bin\Debug\net8.0\EdgeCut.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\bin\Debug\net8.0\EdgeCut.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\bin\Debug\net8.0\EdgeCut.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut..D46F287A.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\refint\EdgeCut.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\ref\EdgeCut.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\bin\Debug\net8.0\EdgeCut.Data.runtimeconfig.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Data\obj\Debug\net8.0\EdgeCut.Data.genruntimeconfig.cache

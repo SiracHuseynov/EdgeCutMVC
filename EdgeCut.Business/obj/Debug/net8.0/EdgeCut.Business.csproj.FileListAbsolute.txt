@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Business.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\bin\Debug\net8.0\EdgeCut.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut..64B08C22.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\refint\EdgeCut.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\EdgeCut.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\EdgeCut.Business\obj\Debug\net8.0\ref\EdgeCut.Business.dll

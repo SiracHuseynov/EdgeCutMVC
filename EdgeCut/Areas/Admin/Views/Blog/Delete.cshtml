@@ -1,0 +1,21 @@
+﻿@using EdgeCut.Core.Models
+@model Blog
+
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+           <form asp-action="DeletPost" method="post">
+                <div class="card" style="width: 18rem;">
+                    <img src="~/uploads/sliders/@Model.ImageUrl" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Title</h5>
+                        <p class="card-text">@Model.Description</p>
+                        <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                        <a asp-action="Index" class="btn btn-info">Go back</a>
+                        <button type="submit" class="btn btn-danger">Delete</button> 
+                    </div>
+                </div>
+           </form>
+        </div>
+    </div>
+</div>
